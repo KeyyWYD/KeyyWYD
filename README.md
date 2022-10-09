@@ -29,5 +29,3 @@
 </p>
 
 **🙏 Please ⭐ my repository if you find any of my projects interesting.**
-
----
