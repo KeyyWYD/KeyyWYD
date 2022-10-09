@@ -1,7 +1,9 @@
 <!---Greetings--->
-### 👋 Hi, I’m KeyyWYD,
+# 👋 Hi, I’m KeyyWYD,
 
-### 🌱 Challenges that I’m currently challenging myself:
+- I am a Noob🤧
+
+**🌱 Challenges that I’m currently setting for myself:**
 <details>
   <summary>Since attending school again, I've decided to set a few realistic goals for myself. I really hope to acomplish at least three of these.</summary>
   <ul>
