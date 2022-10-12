@@ -8,7 +8,7 @@
   <summary>Since attending school again, I've decided to set a few realistic goals for myself. I really hope to acomplish at least three of these.</summary>
   <ul>
     <br>
-    <li>Learn to code 2-3 hours a day without any distractions.</li>
+    <li>Learn to code 2-3 hours a day.</li>
     <li>Going to the Gym</li>
     <li>Read more books</li>
     <li>Adopting a better work ethic</li>
