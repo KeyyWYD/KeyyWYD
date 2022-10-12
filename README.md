@@ -1,4 +1,4 @@
-<!---Greetings--->
+<!--- Greetings --->
 # 👋 Hi, I’m KeyyWYD,
 
 - I am a Noob🤧
@@ -24,8 +24,8 @@
 
 **📫 Connect with me:**
 <p align="left">
-  <a href="https://twitter.com/radkeiben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" tweeter" height="40" width="40" /></a> &nbsp;&nbsp;
-  <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="cord" height="40" width="40" /></a> KeyyWYD#1086
+  <a href="https://twitter.com/radkeiben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://discord.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord" height="40" width="40" /></a> KeyyWYD#1086
 </p>
 
 **🙏 Please ⭐ my repository if you find any of my projects interesting.**
