@@ -1,7 +1,7 @@
 <!--- Greetings --->
 # 👋 Hi, I’m Keiron,
 
-- I am a Noob🤧
+- I am noob🤧
 
 **🌱 Challenges that I’m currently setting for myself:**
 <details>
