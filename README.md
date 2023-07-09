@@ -5,13 +5,12 @@
 
 **🌱 Challenges that I’m currently setting for myself:**
 <details>
-  <summary>Since attending school again, I've decided to set a few realistic goals for myself. I really hope to acomplish at least three of these.</summary>
+  <summary>Since attending school again, I've decided to set a few goals for myself. I really hope to accomplish at least three of these.</summary>
   <ul>
     <br>
     <li>Learn to code 2-3 hours a day.</li>
     <li>Read more books</li>
     <li>Adopting a better work ethic</li>
-    <li>🔜</li>
   </ul>
 </details>
 
