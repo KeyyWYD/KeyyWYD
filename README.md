@@ -20,9 +20,4 @@
   <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="glsl" width="40" height="40" /></code>&nbsp;
 </p>
 
-**📫 Connect with me:**
-<p align="left">
-  <a href="https://twitter.com/radkeiben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="40" width="40" /></a> &nbsp;&nbsp;
-</p>
-
 **🙏 Please ⭐ my repository if you find any of my projects interesting.**
