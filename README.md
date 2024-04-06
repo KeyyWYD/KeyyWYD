@@ -5,7 +5,7 @@
 
 **🌱 Challenges that I’m currently setting for myself:**
 <details>
-  <summary>I've decided to set a few goals for myself. I really hope to accomplish at least two of these.</summary>
+  <summary>I've decided to set a few goals for myself. I really hope to accomplish at least all of these.</summary>
   <ul>
     <br>
     <li>Learn to code 2-3 hours a day.</li>
