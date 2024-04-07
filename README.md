@@ -20,4 +20,4 @@
   <code><img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/python/python_48x48.png" alt="Python" width="40" height="40" /></code>&nbsp;
 </p>
 
-**🙏 Please ⭐ my repository if you find any of my projects interesting.**
+**🙏 Please ⭐ my repository if you find the projects interesting.**
