@@ -21,3 +21,5 @@
 </p>
 
 **🙏 Please ⭐ my repository if you find the projects interesting.**
+
+[![KeyyWYD's GitHub stats](https://github-readme-stats.vercel.app/api?username=KeyyWYD)](https://github.com/anuraghazra/github-readme-stats)
