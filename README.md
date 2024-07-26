@@ -35,8 +35,10 @@
   </p>
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=keyywyd&show_icons=true&theme=tokyonight&hide_border=true" alt="keyywyd" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&theme=tokyonight&hide_border=true" alt="keyywyd" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&layout=compact&theme=tokyonight&hide_border=true" alt="keyywyd" />
+  <!--
+    <img src="https://github-readme-stats.vercel.app/api?username=keyywyd&hide=contribs,stars&show_icons=true&theme=tokyonight&hide_border=true" alt="keyywyd" />
+  -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&layout=compact&theme=tokyonight&hide_border=true" alt="keyywyd" /> <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&theme=tokyonight&hide_border=true" alt="keyywyd" /> 
   </p>
 </div>
