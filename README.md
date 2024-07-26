@@ -22,7 +22,7 @@
   -->
 
   <h3>Languages and Tools</h3>
-  <p align="center"> 
+  <p> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
     </a> 
@@ -33,9 +33,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
     </a>
   </p>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=keyywyd&show_icons=true&theme=tokyonight&hide_border=true" alt="keyywyd" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&theme=tokyonight&hide_border=true" alt="keyywyd" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&layout=compact&theme=tokyonight&hide_border=true" alt="keyywyd" />
-  
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=keyywyd&show_icons=true&theme=tokyonight&hide_border=true" alt="keyywyd" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&theme=tokyonight&hide_border=true" alt="keyywyd" /> <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&layout=compact&theme=tokyonight&hide_border=true" alt="keyywyd" />
+  </p>
 </div>
