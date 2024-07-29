@@ -4,41 +4,19 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   </h1>
   
-  <p>
-    I am a <b>Computer Science</b> student 💻 passionate about open-source software (OSS) ❤️. <br>
-  </p>
+  I am a **Computer Science** student 💻 passionate about open-source software ❤️.</br>
 
-  <h3>My Interests</h3>
-  <p>
-    AI and Machine Learning 🤖<br>
-    Cybersecurity 🔐<br>
-    Linux Systems and Scripting 🐧
-  </p>
-
-  <!--
-  <h3 align="left">Connect with me:</h3>
-  <p align="left">
-  </p>
-  -->
-
-  <h3>Languages and Tools</h3>
-  <p> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
-      <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/48x48_white.png" alt="bash" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a>
-  </p>
-
-  <p>
-  <!--
-    <img src="https://github-readme-stats.vercel.app/api?username=keyywyd&hide=contribs,stars&show_icons=true&theme=tokyonight&hide_border=true" alt="keyywyd" />
-  -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&layout=compact&theme=tokyonight&hide_border=true" alt="keyywyd" /> <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&theme=tokyonight&hide_border=true" alt="keyywyd" /> 
-  </p>
+  <h2>My Interests</h2>
+  AI and Machine Learning 🤖</br>
+  Cybersecurity 🔐</br>
+  Linux Systems and Scripting 🐧</br>
+  
+  <h2>Languages and Tools</h2>
+  <img src="https://skillicons.dev/icons?i=bash,c,github,arch" /></br>
+  
+  <h2>Stats</h2>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&count_private=true&theme=react&hide_border=true&border_radius=10" alt="streak"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=keyywyd&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=10" alt="stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="langs" />
 </div>
