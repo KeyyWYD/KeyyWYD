@@ -12,7 +12,7 @@
   Linux Systems and Scripting 🐧</br>
   
   <h2>Languages and Tools</h2>
-  <img src="https://skillicons.dev/icons?i=bash,c,github,arch" /></br>
+  <img src="https://skillicons.dev/icons?i=bash,c,git,arch" /></br>
   
   <h2>Stats</h2>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&count_private=true&theme=react&hide_border=true&border_radius=10" alt="streak"/>
