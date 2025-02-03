@@ -22,6 +22,4 @@
 # Stats
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&count_private=true&theme=react&hide_border=true&border_radius=10" alt="streak"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=keyywyd&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=10" alt="stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keyywyd&hide=HTML&langs_count=8&layout=compact&theme=react&hide_border=true&border_radius=10&size_weight=0.5&count_weight=0.5" alt="langs" />
 </div>
