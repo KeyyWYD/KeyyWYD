@@ -20,6 +20,8 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg">
 
 # Stats
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=keyywyd&count_private=true&theme=react&hide_border=true&border_radius=10" alt="streak"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=keyywyd&count_private=true&show_icons=true&theme=react&hide_border=true&rank_icon=github&border_radius=10" alt="stats" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=keyywyd&theme=material-palenight&count_private=true&show_icons=true&hide_border=true&rank_icon=github&border_radius=20" alt="stats" />
+
+<br>
+<br>
 </div>
