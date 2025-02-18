@@ -27,5 +27,9 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=keyywyd&theme=material-palenight&count_private=true&show_icons=true&hide_border=true&rank_icon=github&border_radius=20" alt="stats" />
 
 <br>
-<br>
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
+
 </div>
