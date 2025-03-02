@@ -1,10 +1,10 @@
 <div align="center">
 
-### Hi there, I'm <a href="https://github.com/KeyyWYD">Keiron</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"> &nbsp;
+## Hi there, I'm <a href="https://github.com/KeyyWYD">Keiron</a> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30"> &nbsp;
 
-I am a Computer Science student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist" width="25"/> passionate about open-source software ❤️.
+I am a Computer Science student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist" width="20"/> passionate about open-source software <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="18"/>.
 
-### Softwares & Tools I Use <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30">
+## Softwares & Tools I Use <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="30">
 <p align="center">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android2.svg" alt="Android">
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux2.svg" alt="Linux">
@@ -21,7 +21,7 @@ I am a Computer Science student <img src="https://raw.githubusercontent.com/Tari
 
 *Printed "Hello, World!" in `6 other languages`.*
 
-### My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30">
+### My Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="20">
 <p align="center">
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=keyywyd&theme=material-palenight&count_private=true&show_icons=true&hide_border=true&rank_icon=github&border_radius=20" alt="Stats" />
 </p>
